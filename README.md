@@ -50,7 +50,7 @@
 
 ## 🌐 **Conéctate conmigo**
 - 📧 Correo: [m_moctezumace@hotmail.com](mailto:m_moctezumace@hotmail.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/MiguelMoc1)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/miguel-angel-moctezuma-cedillo-967248291/)  
 - 🖥️ [Portafolio de GitHub](https://github.com/MiguelMoc1)  
 
 ---
