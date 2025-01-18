@@ -40,11 +40,11 @@
 
 ---
 
-## 🛠️ **Habilidades Técnicas**
-- **Lenguajes:** Python, SQL, R.  
-- **Machine Learning:** Regresión, clasificación, manejo de desequilibrios.  
-- **Visualización de Datos:** Power BI, Streamlit, Matplotlib, Seaborn.  
-- **Herramientas:** Git, Sci-kit Learn, Pandas, MS Office.  
+### 🛠️ **Lenguajes y herramientas**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
 ---
 
@@ -55,6 +55,5 @@
 
 ---
 
-## 📊 **Estadísticas de GitHub**
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=MiguelMoc1&show_icons=true&theme=radical)  
+
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelMoc1&layout=compact&theme=radical)  
