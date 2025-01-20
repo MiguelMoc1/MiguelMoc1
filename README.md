@@ -33,7 +33,7 @@
 ---
 
 ### **Predicción de Retención de Clientes para Beta Bank**  
-📍 [Repositorio del Proyecto](https://github.com/MiguelMoc1/beta-bank)  
+📍 [Repositorio del Proyecto](https://github.com/MiguelMoc1/BetaBankprediction)  
 - Desarrollo de un modelo para predecir qué clientes abandonarían el banco.  
 - Implementación de algoritmos de machine learning y visualización de resultados clave.  
 - **Resultados:** F1-score de 0.82 y AUC-ROC de 0.90.  
