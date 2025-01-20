@@ -17,7 +17,7 @@
 ---
 
 ### **Predicción de Cancelación de Clientes**  
-📍 [Repositorio del Proyecto](https://github.com/MiguelMoc1/prediccion-clientes)  
+📍 [Repositorio del Proyecto](https://github.com/MiguelMoc1/BetaBankprediction)  
 - Creación de un modelo predictivo para identificar clientes en riesgo de abandonar sus servicios.  
 - Aplicación de técnicas avanzadas de machine learning y manejo de desequilibrios de clases mediante sobremuestreo y submuestreo.  
 - **Resultados:** F1-score de 0.82 y AUC-ROC de 0.90.  
