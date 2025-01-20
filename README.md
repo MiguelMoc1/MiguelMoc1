@@ -32,6 +32,30 @@
 
 ---
 
+### **Optimización de Planes Móviles - Megaline**  
+📍 [Repositorio del Proyecto](https://github.com/MiguelMoc1/megaline-plan-optimization)  
+- Análisis de planes móviles para identificar oportunidades de mejora en las tarifas y segmentación de clientes.  
+- Aplicación de análisis exploratorio de datos y modelos predictivos para optimizar la retención y satisfacción de usuarios.  
+- **Resultados:** Estrategias clave para aumentar ingresos y minimizar la pérdida de clientes.  
+
+---
+
+### **Análisis de Viajes en Taxi - Chicago**  
+📍 [Repositorio del Proyecto](https://github.com/MiguelMoc1/taxi-chicago-analysis)  
+- Exploración de datos históricos de viajes en taxi en Chicago para identificar patrones y factores clave en la demanda de servicios.  
+- Generación de visualizaciones interactivas para comunicar hallazgos importantes a los stakeholders.  
+- **Resultados:** Identificación de áreas de alta demanda y recomendaciones operativas para optimizar recursos.  
+
+---
+
+### **Análisis de Ventas de Videojuegos**  
+📍 [Repositorio del Proyecto](https://github.com/MiguelMoc1/videogames-sales-analysis)  
+- Análisis de datos históricos de ventas de videojuegos para identificar patrones de éxito en plataformas y géneros.  
+- Evaluación de preferencias regionales y uso de modelos estadísticos para pruebas de hipótesis.  
+- **Resultados:** Estrategias de marketing basadas en preferencias de género y región para maximizar ventas.  
+
+---
+
 ### 🛠️ **Lenguajes y herramientas**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -46,6 +70,5 @@
 - 🖥️ [Portafolio de GitHub](https://github.com/MiguelMoc1)  
 
 ---
-
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelMoc1&layout=compact&theme=radical)  
