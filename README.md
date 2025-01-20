@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Miguel Ángel Moctezuma Cedillo
+# 👋 ¡Hola! Soy Miguel Angel Moctezuma Cedillo
 
 🎓 **Científico de Datos y Administrador Financiero**  
 🚀 Apasionado por transformar datos en decisiones estratégicas.  
