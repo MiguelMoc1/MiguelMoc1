@@ -25,7 +25,7 @@
 ---
 
 ### **Análisis de Pozos Petroleros**  
-📍 [Repositorio del Proyecto](https://github.com/MiguelMoc1/pozos-petroleros)  
+📍 [Repositorio del Proyecto](https://github.com/MiguelMoc1/200_oil_wells_project)  
 - Identificación de ubicaciones estratégicas para nuevos pozos petroleros mediante análisis predictivo.  
 - Utilización de modelos de regresión lineal y evaluación de riesgos con técnicas de bootstrapping.  
 - **Resultados:** Optimización estratégica basada en datos cuantitativos.  
