@@ -139,7 +139,7 @@ Desarrollé un modelo para **clasificar automáticamente críticas negativas** e
 
 ---
 ### 🛒 Llena ese carrito - Análisis de Datos de Compras en Línea 🛍️  
-📍 [Repositorio del Proyecto](https://github.com/MiguelMoc1/LlenaEseCarrito)  
+📍 [Repositorio del Proyecto](https://github.com/MiguelMoc1/fillthatcar)  
 Realicé un análisis exhaustivo de los datos de compras en línea proporcionados por una versión modificada del conjunto de datos de Instacart. Este proyecto incluyó tareas de limpieza, preprocesamiento y visualización de datos para extraer insights sobre patrones de compra de los usuarios.
 
 #### 📋 Resumen del Proyecto
