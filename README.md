@@ -138,6 +138,30 @@ Desarrollé un modelo para **clasificar automáticamente críticas negativas** e
 - **Resultados:** Estrategias de marketing basadas en preferencias de género y región para maximizar ventas.  
 
 ---
+### 🛒 Llena ese carrito - Análisis de Datos de Compras en Línea 🛍️  
+📍 [Repositorio del Proyecto](https://github.com/MiguelMoc1/LlenaEseCarrito)  
+Realicé un análisis exhaustivo de los datos de compras en línea proporcionados por una versión modificada del conjunto de datos de Instacart. Este proyecto incluyó tareas de limpieza, preprocesamiento y visualización de datos para extraer insights sobre patrones de compra de los usuarios.
+
+#### 📋 Resumen del Proyecto
+- **Objetivo:** Analizar patrones de compra de usuarios y descubrir insights clave para optimizar la experiencia del cliente.
+- **Técnicas Utilizadas:**
+  - Limpieza de datos: manejo de valores ausentes y duplicados.
+  - Análisis exploratorio: visualización de patrones temporales y de comportamiento.
+  - Segmentación por categorías y hábitos de reordenamiento.
+- **Resultados Clave:**
+  - Los productos más comprados incluyen bananas, aguacates y leche orgánica.
+  - Identificación de los días y horarios de mayor actividad.
+  - El 59% de los productos en promedio son reordenados, lo que refleja una alta fidelidad de los clientes.
+
+#### 🛠️ Tecnologías Utilizadas
+- **Lenguajes:** Python  
+- **Librerías:** `pandas`, `numpy`, `matplotlib`, `seaborn`, `scipy`
+
+#### 📈 Logros Principales
+- Identifiqué productos clave y hábitos de reordenamiento para entender mejor las preferencias de los usuarios.
+- Descubrí patrones temporales significativos, como horarios y días de la semana con mayor actividad.
+
+---
 
 ### 🛠️ **Lenguajes y herramientas**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
