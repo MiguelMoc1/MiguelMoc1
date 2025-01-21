@@ -7,6 +7,14 @@
 ---
 
 ## 🌟 **Proyectos Destacados**
+### **Mejor Tarifa**  
+📍 [Repositorio del Proyecto](https://github.com/MiguelMoc1/mejor-tarifa)  
+- **Objetivo:** Identificar qué tarifa de prepago genera más ingresos para la empresa de telecomunicaciones Megaline.  
+- **Acciones Clave:** Análisis estadístico, visualización de datos y pruebas de hipótesis.  
+- **Resultados:** Se determinó que la tarifa Surf genera más ingresos totales, pero con oportunidades de optimización.  
+- **Tecnologías utilizadas:** Python, Pandas, Numpy, Matplotlib, Scipy.
+
+---
 
 ### **Panel de Control de Anuncios de Venta de Coches**  
 📍 [Repositorio del Proyecto](https://github.com/MiguelMoc1/car-sales-dashboard)  
