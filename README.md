@@ -8,6 +8,33 @@
 
 ## 🌟 **Proyectos Destacados**
 
+### 🎬 Film Junky Union - Clasificación de Reseñas de Películas 🎥
+
+Desarrollé un modelo para **clasificar automáticamente críticas negativas** en reseñas de películas de IMDB. Este proyecto involucró procesamiento de texto avanzado y la aplicación de múltiples modelos de machine learning. 
+
+#### 📋 Resumen del Proyecto
+- **Objetivo:** Detectar automáticamente críticas negativas con un **F1-Score ≥ 0.85**.
+- **Técnicas Utilizadas:**
+  - Procesamiento de texto: `TF-IDF`, lematización (`spaCy`), embeddings contextuales (`BERT`).
+  - Modelos probados: Regresión Logística, LightGBM, BERT.
+- **Resultados:** Superé el objetivo con un F1-Score de 0.86 utilizando embeddings de BERT.
+
+#### 🛠️ Tecnologías Utilizadas
+- **Lenguajes:** Python
+- **Librerías:** `nltk`, `spacy`, `transformers`, `lightgbm`, `scikit-learn`, `torch`
+- **Procesamiento de Texto:** Normalización, lematización, embeddings
+- **Visualización de Datos:** `matplotlib`, `seaborn`
+
+#### 📈 Principales Logros
+- Diseñé un pipeline que evalúa modelos automáticamente utilizando métricas como **F1-Score**, **AUC-ROC**, y **Exactitud**.
+- Implementé **BERT** para mejorar la comprensión del contexto en textos complejos.
+- Superé el umbral de desempeño con múltiples modelos, asegurando alta precisión en la clasificación.
+
+#### 🔗 Repositorio
+Puedes consultar el código y los resultados [aquí](https://github.com/tu-usuario/film-junky-union).
+
+---
+
 ### **Predicción de Precios de Vehículos Usados**  
 📍 [Repositorio del Proyecto](https://github.com/MiguelMoc1/prediccion-precio-vehiculos)  
 - Desarrollo de un modelo para estimar el valor de mercado de vehículos usados con base en especificaciones técnicas, historial y características del coche.  
