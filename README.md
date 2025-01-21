@@ -9,7 +9,7 @@
 ## 🌟 **Proyectos Destacados**
 
 ### 🛡️ **Predicción de Cancelación de Clientes (Churn) - Interconnect**  
-📍 [Repositorio del Proyecto](https://github.com/MiguelMoc1/prediccion-cancelacion-clientes)  
+📍 [Repositorio del Proyecto](https://github.com/MiguelMoc1/Prediction-churn-Interconnect)  
 Desarrollé un modelo para predecir la cancelación de clientes en una empresa de telecomunicaciones, proporcionando insights clave para estrategias de retención.
 
 #### 📋 Resumen del Proyecto
