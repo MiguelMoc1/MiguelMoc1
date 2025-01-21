@@ -7,6 +7,19 @@
 ---
 
 ## 🌟 **Proyectos Destacados**
+
+### **Predicción de Precios de Vehículos Usados**  
+📍 [Repositorio del Proyecto](https://github.com/MiguelMoc1/prediccion-precio-vehiculos)  
+- Desarrollo de un modelo para estimar el valor de mercado de vehículos usados con base en especificaciones técnicas, historial y características del coche.  
+- Análisis exhaustivo de datos: detección y tratamiento de valores atípicos, imputación de valores faltantes y eliminación de datos irrelevantes.  
+- Comparativa de modelos de Machine Learning, incluyendo **Random Forest**, **LightGBM**, **CatBoost** y **XGBoost**.
+- **Resultados destacados:**  
+  - **Mejor modelo:** LightGBM con un RMSE de 1986.73 en el conjunto de prueba.  
+  - Optimización del tiempo de predicción y entrenamiento para aplicaciones en tiempo real.  
+- **Tecnologías utilizadas:** Python, Pandas, Scikit-learn, LightGBM, CatBoost, XGBoost, Matplotlib, Seaborn.
+
+---
+
 ### **Mejor Tarifa**  
 📍 [Repositorio del Proyecto](https://github.com/MiguelMoc1/mejor-tarifa)  
 - **Objetivo:** Identificar qué tarifa de prepago genera más ingresos para la empresa de telecomunicaciones Megaline.  
