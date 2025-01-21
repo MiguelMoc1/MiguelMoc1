@@ -8,6 +8,31 @@
 
 ## 🌟 **Proyectos Destacados**
 
+### 🛡️ **Predicción de Cancelación de Clientes (Churn) - Interconnect**  
+📍 [Repositorio del Proyecto](https://github.com/MiguelMoc1/prediccion-cancelacion-clientes)  
+Desarrollé un modelo para predecir la cancelación de clientes en una empresa de telecomunicaciones, proporcionando insights clave para estrategias de retención.
+
+#### 📋 Resumen del Proyecto
+- **Objetivo:** Identificar clientes en riesgo de cancelar servicios para optimizar estrategias de retención.
+- **Acciones Clave:**
+  - Análisis Exploratorio de Datos (EDA) para identificar patrones clave asociados con la cancelación.
+  - Tratamiento del desbalance de clases mediante sobremuestreo.
+  - Evaluación de modelos de clasificación: Regresión Logística, Árbol de Decisión, Bosque Aleatorio.
+- **Resultados:** El modelo final, un **Bosque Aleatorio**, alcanzó un AUC-ROC de 0.84 y un F1-Score de 0.63 en el conjunto de prueba.
+
+#### 🛠️ Tecnologías Utilizadas
+- **Lenguajes:** Python
+- **Librerías:** `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`
+- **Técnicas:** One-Hot Encoding, escalado de variables, sobremuestreo, optimización de hiperparámetros
+- **Modelos:** Random Forest, Decision Tree, Logistic Regression
+
+#### 📈 Principales Logros
+- **Detección de patrones clave:** Los clientes con cargos mensuales altos y servicios de fibra óptica tienen mayor probabilidad de cancelar.
+- **Pipeline de modelado eficiente:** Creación de un flujo de trabajo optimizado desde la preparación de datos hasta la evaluación del modelo final.
+- **Recomendaciones prácticas:** Estrategias para retención basadas en los factores identificados.
+
+---
+
 ### 🎬 Film Junky Union - Clasificación de Reseñas de Películas 🎥
 📍 [Repositorio del Proyecto](https://github.com/MiguelMoc1/negativecriticsdetector)  
 Desarrollé un modelo para **clasificar automáticamente críticas negativas** en reseñas de películas de IMDB. Este proyecto involucró procesamiento de texto avanzado y la aplicación de múltiples modelos de machine learning. 
