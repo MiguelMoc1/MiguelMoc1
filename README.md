@@ -9,7 +9,7 @@
 ## 🌟 **Proyectos Destacados**
 
 ### 🎬 Film Junky Union - Clasificación de Reseñas de Películas 🎥
-
+📍 [Repositorio del Proyecto](https://github.com/MiguelMoc1/negativecriticsdetector)  
 Desarrollé un modelo para **clasificar automáticamente críticas negativas** en reseñas de películas de IMDB. Este proyecto involucró procesamiento de texto avanzado y la aplicación de múltiples modelos de machine learning. 
 
 #### 📋 Resumen del Proyecto
@@ -29,9 +29,6 @@ Desarrollé un modelo para **clasificar automáticamente críticas negativas** e
 - Diseñé un pipeline que evalúa modelos automáticamente utilizando métricas como **F1-Score**, **AUC-ROC**, y **Exactitud**.
 - Implementé **BERT** para mejorar la comprensión del contexto en textos complejos.
 - Superé el umbral de desempeño con múltiples modelos, asegurando alta precisión en la clasificación.
-
-#### 🔗 Repositorio
-Puedes consultar el código y los resultados [aquí](https://github.com/tu-usuario/film-junky-union).
 
 ---
 
