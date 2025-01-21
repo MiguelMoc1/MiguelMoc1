@@ -2,7 +2,7 @@
 
 🎓 **Científico de Datos y Administrador Financiero**  
 🚀 Apasionado por transformar datos en decisiones estratégicas.  
-📊 Experto en **Python**, **SQL**, **Machine Learning** y herramientas de visualización como **Power BI** y **Streamlit**.  
+📊 Experto en **Python**, **SQL**, **Machine Learning** y herramientas de visualización como **Power BI**, **Tableau** y **Streamlit**.  
 
 ---
 
