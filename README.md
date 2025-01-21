@@ -57,18 +57,6 @@ Desarrollé un modelo para **clasificar automáticamente críticas negativas** e
 
 ---
 
-### **Predicción de Precios de Vehículos Usados**  
-📍 [Repositorio del Proyecto](https://github.com/MiguelMoc1/prediccion-precio-vehiculos)  
-- Desarrollo de un modelo para estimar el valor de mercado de vehículos usados con base en especificaciones técnicas, historial y características del coche.  
-- Análisis exhaustivo de datos: detección y tratamiento de valores atípicos, imputación de valores faltantes y eliminación de datos irrelevantes.  
-- Comparativa de modelos de Machine Learning, incluyendo **Random Forest**, **LightGBM**, **CatBoost** y **XGBoost**.
-- **Resultados destacados:**  
-  - **Mejor modelo:** LightGBM con un RMSE de 1986.73 en el conjunto de prueba.  
-  - Optimización del tiempo de predicción y entrenamiento para aplicaciones en tiempo real.  
-- **Tecnologías utilizadas:** Python, Pandas, Scikit-learn, LightGBM, CatBoost, XGBoost, Matplotlib, Seaborn.
-
----
-
 ### 🚕 **Predicción de Pedidos de Taxis para Sweet Lift Taxi**  
 📍 [Repositorio del Proyecto](https://github.com/MiguelMoc1/sweetlifttaxiprediction)  
 - Desarrollo de un modelo predictivo para estimar la cantidad de pedidos de taxis en la próxima hora, optimizando la asignación de conductores durante horas pico.  
@@ -81,6 +69,17 @@ Desarrollé un modelo para **clasificar automáticamente críticas negativas** e
 
 ---
 
+### **Predicción de Precios de Vehículos Usados**  
+📍 [Repositorio del Proyecto](https://github.com/MiguelMoc1/prediccion-precio-vehiculos)  
+- Desarrollo de un modelo para estimar el valor de mercado de vehículos usados con base en especificaciones técnicas, historial y características del coche.  
+- Análisis exhaustivo de datos: detección y tratamiento de valores atípicos, imputación de valores faltantes y eliminación de datos irrelevantes.  
+- Comparativa de modelos de Machine Learning, incluyendo **Random Forest**, **LightGBM**, **CatBoost** y **XGBoost**.
+- **Resultados destacados:**  
+  - **Mejor modelo:** LightGBM con un RMSE de 1986.73 en el conjunto de prueba.  
+  - Optimización del tiempo de predicción y entrenamiento para aplicaciones en tiempo real.  
+- **Tecnologías utilizadas:** Python, Pandas, Scikit-learn, LightGBM, CatBoost, XGBoost, Matplotlib, Seaborn.
+
+---
 ### **Análisis de Pozos Petroleros**  
 📍 [Repositorio del Proyecto](https://github.com/MiguelMoc1/200_oil_wells_project)  
 - Identificación de ubicaciones estratégicas para nuevos pozos petroleros mediante análisis predictivo.  
