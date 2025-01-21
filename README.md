@@ -21,7 +21,7 @@
 ---
 
 ### 🚕 **Predicción de Pedidos de Taxis para Sweet Lift Taxi**  
-📍 [Repositorio del Proyecto](https://github.com/MiguelMoc1/sweet-lift-taxi-prediction)  
+📍 [Repositorio del Proyecto](https://github.com/MiguelMoc1/sweetlifttaxiprediction)  
 - Desarrollo de un modelo predictivo para estimar la cantidad de pedidos de taxis en la próxima hora, optimizando la asignación de conductores durante horas pico.  
 - **Acciones clave:**  
   - Remuestreo de datos históricos por hora y creación de características como año, mes, día, hora y día de la semana.  
