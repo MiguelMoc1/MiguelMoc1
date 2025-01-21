@@ -81,32 +81,6 @@ Desarrollé un modelo para **clasificar automáticamente críticas negativas** e
 
 ---
 
-
-### **Mejor Tarifa**  
-📍 [Repositorio del Proyecto](https://github.com/MiguelMoc1/mejor-tarifa)  
-- **Objetivo:** Identificar qué tarifa de prepago genera más ingresos para la empresa de telecomunicaciones Megaline.  
-- **Acciones Clave:** Análisis estadístico, visualización de datos y pruebas de hipótesis.  
-- **Resultados:** Se determinó que la tarifa Surf genera más ingresos totales, pero con oportunidades de optimización.  
-- **Tecnologías utilizadas:** Python, Pandas, Numpy, Matplotlib, Scipy.
-
----
-
-### **Panel de Control de Anuncios de Venta de Coches**  
-📍 [Repositorio del Proyecto](https://github.com/MiguelMoc1/car-sales-dashboard)  
-- Desarrollo de una aplicación web interactiva utilizando **Streamlit** para analizar datos de anuncios de venta de coches.  
-- La aplicación permite explorar y filtrar datos, visualizar estadísticas clave y realizar análisis exploratorios de manera intuitiva.  
-- **Tecnologías utilizadas:** Python, Pandas, Matplotlib, Streamlit.
-
----
-
-### **Predicción de Cancelación de Clientes**  
-📍 [Repositorio del Proyecto](https://github.com/MiguelMoc1/BetaBankprediction)  
-- Creación de un modelo predictivo para identificar clientes en riesgo de abandonar sus servicios.  
-- Aplicación de técnicas avanzadas de machine learning y manejo de desequilibrios de clases mediante sobremuestreo y submuestreo.  
-- **Resultados:** F1-score de 0.82 y AUC-ROC de 0.90.  
-
----
-
 ### **Análisis de Pozos Petroleros**  
 📍 [Repositorio del Proyecto](https://github.com/MiguelMoc1/200_oil_wells_project)  
 - Identificación de ubicaciones estratégicas para nuevos pozos petroleros mediante análisis predictivo.  
@@ -115,6 +89,13 @@ Desarrollé un modelo para **clasificar automáticamente críticas negativas** e
 
 ---
 
+### **Predicción de Cancelación de Clientes Beta Bank**  
+📍 [Repositorio del Proyecto](https://github.com/MiguelMoc1/BetaBankprediction)  
+- Creación de un modelo predictivo para identificar clientes en riesgo de abandonar sus servicios.  
+- Aplicación de técnicas avanzadas de machine learning y manejo de desequilibrios de clases mediante sobremuestreo y submuestreo.  
+- **Resultados:** F1-score de 0.82 y AUC-ROC de 0.90.  
+
+---
 ### **Optimización de Planes Móviles - Megaline**  
 📍 [Repositorio del Proyecto](https://github.com/MiguelMoc1/megaline-plan-optimization)  
 - Análisis de planes móviles para identificar oportunidades de mejora en las tarifas y segmentación de clientes.  
@@ -138,6 +119,24 @@ Desarrollé un modelo para **clasificar automáticamente críticas negativas** e
 - **Resultados:** Estrategias de marketing basadas en preferencias de género y región para maximizar ventas.  
 
 ---
+
+### **Panel de Control de Anuncios de Venta de Coches**  
+📍 [Repositorio del Proyecto](https://github.com/MiguelMoc1/car-sales-dashboard)  
+- Desarrollo de una aplicación web interactiva utilizando **Streamlit** para analizar datos de anuncios de venta de coches.  
+- La aplicación permite explorar y filtrar datos, visualizar estadísticas clave y realizar análisis exploratorios de manera intuitiva.  
+- **Tecnologías utilizadas:** Python, Pandas, Matplotlib, Streamlit.
+
+---
+
+### **Mejor Tarifa**  
+📍 [Repositorio del Proyecto](https://github.com/MiguelMoc1/mejor-tarifa)  
+- **Objetivo:** Identificar qué tarifa de prepago genera más ingresos para la empresa de telecomunicaciones Megaline.  
+- **Acciones Clave:** Análisis estadístico, visualización de datos y pruebas de hipótesis.  
+- **Resultados:** Se determinó que la tarifa Surf genera más ingresos totales, pero con oportunidades de optimización.  
+- **Tecnologías utilizadas:** Python, Pandas, Numpy, Matplotlib, Scipy.
+
+---
+
 ### 🛒 Llena ese carrito - Análisis de Datos de Compras en Línea 🛍️  
 📍 [Repositorio del Proyecto](https://github.com/MiguelMoc1/fillthatcar)  
 Realicé un análisis exhaustivo de los datos de compras en línea proporcionados por una versión modificada del conjunto de datos de Instacart. Este proyecto incluyó tareas de limpieza, preprocesamiento y visualización de datos para extraer insights sobre patrones de compra de los usuarios.
