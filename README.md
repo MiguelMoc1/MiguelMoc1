@@ -20,6 +20,19 @@
 
 ---
 
+### 🚕 **Predicción de Pedidos de Taxis para Sweet Lift Taxi**  
+📍 [Repositorio del Proyecto](https://github.com/MiguelMoc1/sweet-lift-taxi-prediction)  
+- Desarrollo de un modelo predictivo para estimar la cantidad de pedidos de taxis en la próxima hora, optimizando la asignación de conductores durante horas pico.  
+- **Acciones clave:**  
+  - Remuestreo de datos históricos por hora y creación de características como año, mes, día, hora y día de la semana.  
+  - Análisis de series temporales para identificar tendencias, estacionalidades y patrones residuales.  
+  - Entrenamiento y evaluación de modelos, incluyendo Regresión Lineal, Árboles de Decisión y Bosques Aleatorios.  
+- **Modelo Final:** Bosque Aleatorio, logrando un RMSE de **45.58** en el conjunto de prueba, cumpliendo con el objetivo de RMSE ≤ 48.  
+- **Tecnologías utilizadas:** Python, Pandas, NumPy, Scikit-learn, Statsmodels, Matplotlib, Seaborn.  
+
+---
+
+
 ### **Mejor Tarifa**  
 📍 [Repositorio del Proyecto](https://github.com/MiguelMoc1/mejor-tarifa)  
 - **Objetivo:** Identificar qué tarifa de prepago genera más ingresos para la empresa de telecomunicaciones Megaline.  
