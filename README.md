@@ -75,8 +75,8 @@ Desarrollé un modelo para **clasificar automáticamente críticas negativas** e
 - Análisis exhaustivo de datos: detección y tratamiento de valores atípicos, imputación de valores faltantes y eliminación de datos irrelevantes.  
 - Comparativa de modelos de Machine Learning, incluyendo **Random Forest**, **LightGBM**, **CatBoost** y **XGBoost**.
 - **Resultados destacados:**  
-  - **Mejor modelo:** LightGBM con un RMSE de 1986.73 en el conjunto de prueba.  
-  - Optimización del tiempo de predicción y entrenamiento para aplicaciones en tiempo real.  
+  - **Mejor modelo:** LightGBM con un **RMSE de 40.56** en el conjunto de prueba.  
+  - Optimización del tiempo de predicción y entrenamiento para aplicaciones en tiempo real (2.60 segundos de entrenamiento).  
 - **Tecnologías utilizadas:** Python, Pandas, Scikit-learn, LightGBM, CatBoost, XGBoost, Matplotlib, Seaborn.
 
 ---
