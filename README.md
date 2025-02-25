@@ -8,6 +8,32 @@
 
 ## 🌟 **Proyectos Destacados**
 
+### 📊 **Análisis Financiero con Power BI - Company Finances**  
+📍 [Repositorio del Proyecto](https://github.com/MiguelMoc1/companyfinances)  
+Desarrollé un **dashboard financiero interactivo** en **Power BI** para analizar el rendimiento financiero de una empresa, proporcionando insights clave para la toma de decisiones estratégicas.
+
+#### 📋 Resumen del Proyecto
+- **Objetivo:** Proporcionar una visión clara del rendimiento de la empresa, analizando las ventas, ganancias y márgenes de ganancia a través de diferentes países, segmentos y productos.
+- **Acciones Clave:**
+  - Extracción del dataset **'Company Financials'** utilizando la **API de Kaggle**.
+  - Limpieza y transformación de los datos en **Python**, aplicando **análisis exploratorio (EDA)**.
+  - Almacenamiento de datos en **SQL Server** y conexión directa con **Power BI**.
+  - Creación de un **dashboard interactivo** con visualizaciones clave, incluyendo **mapas geográficos**, **gráficos de líneas**, **barras** y **tarjetas de métricas**.
+- **Resultados:** El dashboard permitió identificar oportunidades de mejora en los márgenes de ganancia, especialmente en **Estados Unidos**, y resaltó la **estacionalidad de ventas** en los meses de **noviembre y diciembre**.
+
+#### 🛠️ Tecnologías Utilizadas
+- **Lenguajes:** Python, DAX (Power BI)
+- **Herramientas:** Power BI, SQL Server, Kaggle API, Jupyter Notebook, VS Code
+- **Librerías:** `pandas`, `numpy`, `matplotlib`, `seaborn`
+- **Visualizaciones:** Tarjetas de métricas, gráficos de líneas, gráficos de barras, mapas geográficos interactivos
+
+#### 📈 Principales Logros
+- **Insights clave:** Se descubrió que **Alemania** tiene el **mayor margen de ganancia**, aunque con un **volumen de ventas bajo**, indicando una **oportunidad de expansión**.
+- **Mejora en la toma de decisiones:** El **dashboard interactivo** facilita el análisis de ventas por **país, segmento y producto**, permitiendo a los **stakeholders** identificar **áreas de oportunidad** rápidamente.
+- **Automatización de la carga de datos:** Integración fluida entre **Kaggle API**, **Python** y **SQL Server**, lo que permitió mantener los datos actualizados sin intervenciones manuales.
+
+---
+
 ### 🛡️ **Predicción de Cancelación de Clientes (Churn) - Interconnect**  
 📍 [Repositorio del Proyecto](https://github.com/MiguelMoc1/Prediction-churn-Interconnect)  
 Desarrollé un modelo para predecir la cancelación de clientes en una empresa de telecomunicaciones, proporcionando insights clave para estrategias de retención.
